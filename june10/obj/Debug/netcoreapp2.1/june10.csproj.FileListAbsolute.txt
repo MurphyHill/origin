@@ -1,0 +1,12 @@
+C:\Users\pc-4\source\repos\june10\june10\bin\Debug\netcoreapp2.1\june10.deps.json
+C:\Users\pc-4\source\repos\june10\june10\bin\Debug\netcoreapp2.1\june10.runtimeconfig.json
+C:\Users\pc-4\source\repos\june10\june10\bin\Debug\netcoreapp2.1\june10.runtimeconfig.dev.json
+C:\Users\pc-4\source\repos\june10\june10\bin\Debug\netcoreapp2.1\june10.dll
+C:\Users\pc-4\source\repos\june10\june10\bin\Debug\netcoreapp2.1\june10.pdb
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.csproj.AssemblyReference.cache
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.AssemblyInfoInputs.cache
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.AssemblyInfo.cs
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.csproj.CoreCompileInputs.cache
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.dll
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.pdb
+C:\Users\pc-4\source\repos\june10\june10\obj\Debug\netcoreapp2.1\june10.genruntimeconfig.cache
